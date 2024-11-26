@@ -3,7 +3,7 @@ const product_card = [
     id: 1,
     product_name: "Solace Oasis",
     price: "from $89.99",
-    farbe: "Black /Gold ",
+    farbe: "Matt finish gold/black",
     currency: "EURO",
     uv_filter:
       "Die Solace Oasis überzeugt mit dem eingebauten UV-Filter-UV1000 in der Stärke-sehr stark. Dieser garantiert Schutz vor Sonneneinstrahlung bis zum UV-Index 10+.",
@@ -45,7 +45,7 @@ const product_card = [
     id: 2,
     product_name: "Model Paradise",
     price: "from $89.99",
-    farbe: "Matt Gold / Schwarz ",
+    farbe: "Matt/ black",
     currency: "EURO",
     // thumb: "./images/silver_black_1.png",
     // thumb2: "./images/silver_black_2.png",
@@ -73,13 +73,14 @@ const product_card = [
     video: "../../src/assets/videos/product1.mp4",
     videolink:
       "https://www.youtube.com/embed/rnwzoJp1EqQ?controls=0&autoplay=1&mute=1&loop=1&playlist=rnwzoJp1EqQ",
-    uv_tag: "UV-Filter: nicht vorhanden",
+    uv_tag: "UV-protection",
     UV_FilterDescription:
       "Die Solace Paradise hat keinen eingebauten UV-Filter.",
-    Polarisierung_tag: "Polarisierung: nicht vorhanden",
+    Polarisierung_tag: "Polarization",
     PolarisierungDescription:
       "Polarisierende Sonnenbrillen bieten nicht nur Schutz vor schädlicher UV-Strahlung, sie reduzieren auch unangenehme Reflexionen des Sonnenlichts. Die Solace Paradise ist in dieser Ausführung nicht polarisiert.",
-    Material: "Material: Kunststoff",
+    Material: "Material",
+    Lenses: "Lenses",
     MaterialDescription:
       "Das Gestell der Solace Paradise ist aus Standard-Kunststoff gefertigt.",
     Premium_tag: "Standard Gläser",

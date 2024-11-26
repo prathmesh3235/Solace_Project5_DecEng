@@ -45,7 +45,7 @@ const ProductDisplay = ({ product, userId, mode, timeData }) => {
           <ul className="product-info">
             <li className="product-info-i">
               <h3>
-                <BsDot /> Price: $89.99
+                <BsDot /> Price: $89.99 (incl. tax)
               </h3>
             </li>
             <li className="product-info-i">

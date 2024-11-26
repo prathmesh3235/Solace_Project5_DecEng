@@ -43,7 +43,7 @@ const product_card = [
 
   {
     id: 2,
-    product_name: "Model Paradise",
+    product_name: "Solace Paradise",
     price: "from $89.99",
     farbe: "Matt/ black",
     currency: "EURO",
@@ -75,17 +75,17 @@ const product_card = [
       "https://www.youtube.com/embed/rnwzoJp1EqQ?controls=0&autoplay=1&mute=1&loop=1&playlist=rnwzoJp1EqQ",
     uv_tag: "UV-protection",
     UV_FilterDescription:
-      "Die Solace Paradise hat keinen eingebauten UV-Filter.",
+      "Die Solace Paradisee hat keinen eingebauten UV-Filter.",
     Polarisierung_tag: "Polarization",
     PolarisierungDescription:
-      "Polarisierende Sonnenbrillen bieten nicht nur Schutz vor schädlicher UV-Strahlung, sie reduzieren auch unangenehme Reflexionen des Sonnenlichts. Die Solace Paradise ist in dieser Ausführung nicht polarisiert.",
+      "Polarisierende Sonnenbrillen bieten nicht nur Schutz vor schädlicher UV-Strahlung, sie reduzieren auch unangenehme Reflexionen des Sonnenlichts. Die Solace Paradisee ist in dieser Ausführung nicht polarisiert.",
     Material: "Material",
     Lenses: "Lenses",
     MaterialDescription:
-      "Das Gestell der Solace Paradise ist aus Standard-Kunststoff gefertigt.",
+      "Das Gestell der Solace Paradisee ist aus Standard-Kunststoff gefertigt.",
     Premium_tag: "Standard Gläser",
     Premium_description:
-      "Die Solace Paradise ist mit Standardgläsern ausgestattet. Wir garantieren nicht für Langlebigkeit oder Schutz vor Kratzern. Eine Sehstärkenanpassung ist darüber hinaus nicht möglich.",
+      "Die Solace Paradisee ist mit Standardgläsern ausgestattet. Wir garantieren nicht für Langlebigkeit oder Schutz vor Kratzern. Eine Sehstärkenanpassung ist darüber hinaus nicht möglich.",
 
     videolink:
       "https://www.youtube.com/embed/rnwzoJp1EqQ?controls=0&autoplay=1&mute=1&loop=1&playlist=rnwzoJp1EqQ",
@@ -125,17 +125,17 @@ const product_card = [
 //       "https://www.youtube.com/embed/rnwzoJp1EqQ?controls=0&autoplay=1&mute=1&loop=1&playlist=rnwzoJp1EqQ",
 //     uv_tag: "UV-protection",
 //     UV_FilterDescription:
-//       "Die Solace Paradise hat keinen eingebauten UV-Filter.",
+//       "Die Solace Paradisee hat keinen eingebauten UV-Filter.",
 //     Polarisierung_tag: "Polarization",
 //     Lenses: "Lenses",
 //     PolarisierungDescription:
-//       "Polarisierende Sonnenbrillen bieten nicht nur Schutz vor schädlicher UV-Strahlung, sie reduzieren auch unangenehme Reflexionen des Sonnenlichts. Die Solace Paradise ist in dieser Ausführung nicht polarisiert.",
+//       "Polarisierende Sonnenbrillen bieten nicht nur Schutz vor schädlicher UV-Strahlung, sie reduzieren auch unangenehme Reflexionen des Sonnenlichts. Die Solace Paradisee ist in dieser Ausführung nicht polarisiert.",
 //     Material: "Material",
 //     MaterialDescription:
-//       "Das Gestell der Solace Paradise ist aus Standard-Kunststoff gefertigt.",
+//       "Das Gestell der Solace Paradisee ist aus Standard-Kunststoff gefertigt.",
 //     Premium_tag: "Standard Gläser",
 //     Premium_description:
-//       "Die Solace Paradise ist mit Standardgläsern ausgestattet. Wir garantieren nicht für Langlebigkeit oder Schutz vor Kratzern. Eine Sehstärkenanpassung ist darüber hinaus nicht möglich.",
+//       "Die Solace Paradisee ist mit Standardgläsern ausgestattet. Wir garantieren nicht für Langlebigkeit oder Schutz vor Kratzern. Eine Sehstärkenanpassung ist darüber hinaus nicht möglich.",
 
 //     videolink:
 //       "https://www.youtube.com/embed/rnwzoJp1EqQ?controls=0&autoplay=1&mute=1&loop=1&playlist=rnwzoJp1EqQ",
